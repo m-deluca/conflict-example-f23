@@ -1,3 +1,3 @@
-This is a repo for demoing how to solve a merge conflict when it occurs with your partner or teammates.
+This is repo is for demoing how to solve merge conflicts when when they occur with your partner or teammates.
 
-Merge conflicts are common and part of working with GitHub. Do not fear the conflicts.
+Merge conflicts are quite common and part of working with GitHub. Do not fear the conflicts, my friends.

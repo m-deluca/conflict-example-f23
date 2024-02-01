@@ -2,4 +2,4 @@ This is a repo used to demonstrate how to solve a merge conflict when it occurs 
 
 Merge conflicts are a very common part of working with GitHub. Do not fear the conflicts, my friends!
 
-Batman is better than superman
+hi

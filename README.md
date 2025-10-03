@@ -1,3 +1,8 @@
-This is a repo for demoing how to solve a merge conflict when it occurs with your partner or teammates.
+Merge conflicts, DO not fear them!!!!
 
-Merge conflicts are common and part of working with GitHub. Do not fear the conflicts.
+This is content that was defintely added through the GitHub interface. I am causing a merge conflict.
+
+Thid sentefnce was addefd locally in class.
+
+
+This is a forked repo that is used, in class, to demonstrate how to solve a merge conflict when it occurs with your teammates. Sometimes Github will automatically solve the issue, other times it cannot and requires human intervention.

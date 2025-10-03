@@ -1,5 +1,6 @@
 Merge conflicts, do not fear Them!
 
+
 This is Content that was added through the GitHub Interface. I am purposely causing a merge conflict to show the class.
 
 This sentefnce was added locally using the GitHub desktop app.
